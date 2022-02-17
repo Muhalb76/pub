@@ -12,7 +12,7 @@
         {
             "type": "Microsoft.Web/serverfarms",
             "apiVersion": "2021-03-01",
-            "name": "[parameters('serverfarms_ASP_RGMMA_946a_name')]",
+            "name": "[parameters('serverfarms_ASP_RG01MMA_946a_name')]",
             "location": "UK west",
             "sku": {
                 "name": "Y1",
