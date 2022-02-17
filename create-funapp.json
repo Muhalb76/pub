@@ -17,7 +17,7 @@
             "type": "Microsoft.Web/sites",
             "apiVersion": "2021-02-01",
             "name": "[parameters('sites_funappmma_name')]",
-            "location": "UK West",
+            "location": "UK west",
             "kind": "functionapp",
             "properties": {
                 "enabled": true,
@@ -33,7 +33,7 @@
                         "hostType": "Repository"
                     }
                 ],
-                "serverFarmId": "[parameters('serverfarms_ASP_RG01MMA_946a_externalid')]",
+                "serverFarmId": "[parameters('serverfarms_ASP_RG01MMA_946a')]",
                 "reserved": false,
                 "isXenon": false,
                 "hyperV": false,
