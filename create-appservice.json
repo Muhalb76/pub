@@ -2,8 +2,8 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "serverfarms_ASP_RGMMA_946a_name": {
-            "defaultValue": "ASP-RGMMA-946a",
+        "serverfarms_ASP_RG01MMA_946a_name": {
+            "defaultValue": "ASP-RG01MMA-946a",
             "type": "String"
         }
     },
